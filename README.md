@@ -1,16 +1,17 @@
-### Hi there friends 👋
+# Hi there friends 👋
 
-<!--
-**Anshul439/Anshul439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anshul, a first year Computer Science student. 
 
-Here are some ideas to get you started:
+I started coding when I was 15. The first language that I learnt was Java, and it one of my favourite languages. Apart form Java, I know Python, HTML, CSS and Bootstrap. Currently I am learning Web Development. You can check out my Portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My hobbies - 
+- ***Playing the drums***
+- ***Playing football***
+- ***Reading***
+- ***Writing***.
+<br>
+<br>
+
+<!-- ![Anshul Wadhwa](https://github.com/Anshul439/Personal-Website/blob/master/images/Drumming..png ) -->
+
+<img src="https://github.com/Anshul439/Personal-Website/blob/master/images/Drumming..png" alt="Anshul Wadhwa" width="500">
