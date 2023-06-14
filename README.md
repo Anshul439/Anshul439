@@ -14,4 +14,4 @@ I started coding when I was 15. The first language that I learnt was Java, and i
 
 <!-- ![Anshul Wadhwa](https://github.com/Anshul439/Personal-Website/blob/master/images/Drumming..png ) -->
 
-<img src="https://github.com/Anshul439/Personal-Website/blob/master/images/Drumming..png" alt="Anshul Wadhwa" width="500">
+<img src="https://github.com/Anshul439/Personal-Website/blob/master/images/drumming.png" alt="Anshul Wadhwa" width="500">
