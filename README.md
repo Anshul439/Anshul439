@@ -12,7 +12,9 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 47%;" />
+   <img 
+   src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=tokyonight" 
+/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats" style="width: 50%;" />
 </p>
 
