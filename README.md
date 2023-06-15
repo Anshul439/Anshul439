@@ -5,16 +5,20 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 - Currently learning web development.
 - Actively exploring open-source projects.
 - I enjoy playing the drums, playing football, reading, and writing.
-- You can connect with me on [Twitter](https://twitter.com/Anshul_439) and [LinkedIn](https://www.linkedin.com/in/anshul-wadhwa) 
+- You can connect with me on [Twitter](https://twitter.com/Anshul_439) and [LinkedIn](https://www.linkedin.com/in/anshul-wadhwa). 
 
-<!-- You can connect with me on [Twitter](https://twitter.com/Anshul_439) and [LinkedIn](https://www.linkedin.com/in/anshul-wadhwa)  -->
+<br>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact" alt="Languages" style="width: 50%;"
+</p>
    
 <br>
 
-<p>
+<p align="center">
    <img 
-   src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=tokyonight" 
-/>
+   src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 47%;" 
+</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats" style="width: 50%;" />
 </p>
 
