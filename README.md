@@ -2,19 +2,13 @@
 
 I'm Anshul, a first-year Computer Science student. I began my coding journey at the age of 15, and Java became one of my favorite languages. Alongside Java, I'm proficient in Python, HTML, CSS, and Bootstrap. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
 
-Connect with me on social media: 
-<a href="https://twitter.com/Anshul_439" style="text-decoration: none; color: #1DA1F2;">
-   Twitter
-</a>
-|
-<a href="https://www.linkedin.com/in/anshul-wadhwa" style="text-decoration: none; color: #2867B2;">
-  LinkedIn
-</a>
-|
-<a href="https://www.instagram.com/anshul_439" style="text-decoration: none; color: #E4405F;">
-  Instagram
-</a>
+- Currently learning web development.
+- Actively exploring open-source projects.
+- I enjoy playing the drums, playing football, reading, and writing.
+- You can connect with me on [Twitter](https://twitter.com/Anshul_439) and [LinkedIn](https://www.linkedin.com/in/anshul-wadhwa) 
 
+<!-- You can connect with me on [Twitter](https://twitter.com/Anshul_439) and [LinkedIn](https://www.linkedin.com/in/anshul-wadhwa)  -->
+   
 <br>
 
 <p>
