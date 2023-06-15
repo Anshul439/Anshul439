@@ -19,6 +19,8 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 
 
 
+
+
 <!--START_SECTION:activity-->
 <!-- 1. 🎉 Created a new issue in [Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)
 2. 💪 Opened a pull request in [my-repo](https://github.com/your-username/my-repo)
