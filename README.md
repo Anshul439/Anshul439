@@ -8,6 +8,8 @@ When I'm not coding, you'll find me indulging in my hobbies:
 - 📚 Reading
 - ✍️ Writing.
 
-<!-- ![Anshul Wadhwa](https://github.com/Anshul439/Personal-Website/blob/master/images/Drumming..png ) -->
+<br> 
 
-<!-- <img src="https://github.com/Anshul439/Personal-Website/blob/master/images/drumming.png" alt="Anshul Wadhwa" width="500"> -->
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=highcontrast" 
+/>
