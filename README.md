@@ -10,7 +10,7 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 <br>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact" alt="Languages" style="width: 50%;"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;"
 </p>
    
 <br>
