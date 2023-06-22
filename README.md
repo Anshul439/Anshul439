@@ -21,19 +21,19 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 
 <br>
 
-## ***Stats***
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;">
+## ***GitHub Stats***
+<p >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages">
 </p>
    
 <br>
 
-<p align="center">
-   <img 
-   src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 47%;" 
-</p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats" style="width: 50%;" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats">
+
 
 
 
