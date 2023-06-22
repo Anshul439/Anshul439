@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there👋 </h1>
+# ***Hi there*** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Anshul, a first-year Computer Science student. I began my coding journey at the age of 15, and Java became one of my favorite languages. Alongside Java, I'm proficient in Python, HTML, CSS, and Bootstrap. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
 
@@ -9,8 +9,21 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 
 <br>
 
+## ***Tech Stack***
+<p style="align:center">
+   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width: 7%;">
+   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 7%;">
+   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 8%;">
+   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 8%;">
+   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="width: 8%;">
+   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 8%;">
+</p>
+
+<br>
+
+## ***Stats***
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;">
 </p>
    
 <br>
