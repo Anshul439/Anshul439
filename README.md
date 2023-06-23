@@ -10,12 +10,13 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 <br>
 
 ## ***Tech Stack***
-<p style="align:center">
+<p>
    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width: 7%;">
    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 7%;">
    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 8%;">
    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 8%;">
    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="width: 8%;">
+<!--    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="width: 8%; margin-right: 10px" /> -->
    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 8%;">
 </p>
 
@@ -23,16 +24,16 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 
 ## ***GitHub Stats***
 <p >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;" >
 </p>
    
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats" align="center" style="width: 50%;">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats" style="width: 50%;">
 
 
 
