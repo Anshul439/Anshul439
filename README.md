@@ -15,7 +15,7 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 7%;">
    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 8%;">
    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 8%;">
-   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="width: 8%;">
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" style="width: 8%;">
 <!--    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="width: 8%; margin-right: 10px" /> -->
    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 8%;">
 </p>
