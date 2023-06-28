@@ -1,6 +1,6 @@
 # ***Hi there*** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Anshul, a first-year Computer Science student. I began my coding journey at the age of 15, and Java became one of my favorite languages. Alongside Java, I'm proficient in HTML, CSS, JavaScript and Python. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
+I'm Anshul, a 2nd year Computer Science student. I began my coding journey at the age of 15, and Java became one of my favorite languages. Alongside Java, I'm proficient in HTML, CSS, JavaScript and Python. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
 
 - 🌱 Currently learning web development.
 - 🔭 Actively exploring open-source projects.
