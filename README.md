@@ -5,11 +5,13 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 - Currently learning web development.
 - Actively exploring open-source projects.
 - I enjoy playing the drums, playing football, reading, and writing.
-- You can connect with me on [Twitter](https://twitter.com/Anshul_439) and [LinkedIn](https://www.linkedin.com/in/anshul-wadhwa). 
+
+## 🤝 Connect with me:
+
 
 <br>
 
-## ***Tech Stack***
+## 💼 Tech Stack
 <p>
    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width: 7%;">
    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 7%;">
@@ -22,7 +24,7 @@ I'm Anshul, a first-year Computer Science student. I began my coding journey at 
 
 <br>
 
-## ***GitHub Stats***
+## 📈 GitHub Stats
 <p >
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;" >
 </p>
