@@ -1,28 +1,35 @@
 # ***Hi there*** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Anshul, a first-year Computer Science student. I began my coding journey at the age of 15, and Java became one of my favorite languages. Alongside Java, I'm proficient in Python, HTML, CSS, and Bootstrap. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
+I'm Anshul, a first-year Computer Science student. I began my coding journey at the age of 15, and Java became one of my favorite languages. Alongside Java, I'm proficient in HTML, CSS, JavaScript and Python. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
 
-- Currently learning web development.
-- Actively exploring open-source projects.
-- I enjoy playing the drums, playing football, reading, and writing.
+- 🌱 Currently learning web development.
+- 🔭 Actively exploring open-source projects.
+- 🎨 I enjoy playing the drums, playing football, reading, and writing.
+
+<br>
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anshul Wadhwa | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/Abshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anshul Wadhwa | LinkedIn" width="30px"/></a>
+<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="30px"/></a>
+<a href="https://instagram.com/anshul_439"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/instagram.png" alt="Anshul Wadhwa | Instagram" width="30px"/></a>
 
+<br>
+<br>
 <br>
 
 ## 💼 Tech Stack
 <p>
-   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width: 7%;">
-   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 7%;">
-   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 8%;">
-   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 8%;">
-   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" style="width: 8%;">
-<!--    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" style="width: 8%; margin-right: 10px" /> -->
-   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 8%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width: 6%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 6%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 7%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 7%;">
+   <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" style="width: 7%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 7%;">
 </p>
 
+<br>
+<br>
+<br>
 <br>
 
 ## 📈 GitHub Stats
