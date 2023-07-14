@@ -44,17 +44,3 @@ I'm Anshul, a 2nd year Computer Science student. My tech stack includes HTML, CS
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats" style="width: 50%;">
 
-
-
-
-
-
-
-<!--START_SECTION:activity-->
-<!-- 1. 🎉 Created a new issue in [Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)
-2. 💪 Opened a pull request in [my-repo](https://github.com/your-username/my-repo)
-3. 🌟 Starred [another-user/repo](https://github.com/another-user/repo)
-4. 🗣 Commented on issue [#123](https://github.com/another-user/repo/issues/123)
-5. 🚀 Released version 1.0.0 of [my-package](https://github.com/your-username/my-package) -->
-<!--END_SECTION:activity-->
-
