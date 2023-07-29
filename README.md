@@ -22,8 +22,11 @@ I'm Anshul, a 2nd year Computer Science student. My tech stack includes HTML, CS
    <img align="left" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 4%;">
    <img align="left" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 4%;">
    <img align="left" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 4%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" style="width: 4%;">
    <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" style="width: 4%;">
    <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 4%;">
+   <img align="left" src="https://cdn.worldvectorlogo.com/logos/c.svg" style="width: 4%;">
+   
 </p>
 
 <br>
