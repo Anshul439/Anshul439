@@ -36,14 +36,14 @@ I'm Anshul, a 2nd year Computer Science student. My tech stack includes HTML, CS
 
 ## 📈 GitHub Stats
 <p >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=radical" alt="Languages" style="width: 50%;" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 50%;" >
 </p>
    
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=radical" alt="GitHub Stats" align="center" style="width: 50%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=highcontrast" alt="GitHub Stats" align="center" style="width: 50%;">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=radical" alt="GitHub Streak Stats" style="width: 50%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=highcontrast" alt="GitHub Streak Stats" style="width: 50%;">
 
