@@ -1,7 +1,8 @@
-# ***Hi there*** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align = center> <strong><em> Hi there, I'm Anshul </em></strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-I'm Anshul, a 2nd year Computer Science student. My tech stack includes HTML, CSS, JavaScript, Java and Python. Currently, I'm diving into the world of Web Development. Feel free to explore my portfolio - [Anshul's Website](https://anshul439.github.io/Personal-Website/)
+<br>
 
+# 🧑‍💻 About Me:
 - 🌱 Currently learning web development.
 - 🔭 Actively exploring open-source projects.
 - 🎨 I enjoy playing the drums, playing football, reading, and writing.
