@@ -16,6 +16,7 @@
 
 <br>
 <br>
+<br>
 
 <div id="badges">
 <h2>
@@ -35,8 +36,6 @@
 </p>
 </div>
 
-<br>
-<br>
 <br>
 
 ## 📈 GitHub Stats
