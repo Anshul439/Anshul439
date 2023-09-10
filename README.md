@@ -1,5 +1,5 @@
-<p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=40%></p>
-<h1 align=center> <strong><em> Hi there, I'm Anshul </em></strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=65%></p>
+<h1 align=center> <strong><em> Hey there, I'm Anshul Wadhwa</em></strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <br>
 
@@ -18,19 +18,26 @@
 <br>
 <br>
 
-## 💼 Tech Stack
-<p>
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width: 40px;">
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width: 40px;">
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="width: 40px;">
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="width: 40px;">
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" style="width: 40px;">
-   <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" style="width: 40px;">
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="width: 40px;">
-   <img align="left" src="https://cdn.worldvectorlogo.com/logos/c.svg" style="width: 40px;">
-   
-</p>
+<div id="badges">
+<h2>
+🛠️ Languages and Tools :
+</h2>
 
+<p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery,nodejs,expressjs,java,python" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,git,github,githubactions" />
+</a>
+</p>
+</div>
+
+<br>
+<br>
 <br>
 <br>
 <br>
