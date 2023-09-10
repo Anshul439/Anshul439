@@ -6,7 +6,7 @@
 # 🧑‍💻 About Me:
 - 🌱 Currently learning web development.
 - 🔭 Actively exploring open-source projects.
-- 🎨 I enjoy playing the drums, playing football, reading, and writing.
+- 🎨 I enjoy playing drums, playing football, reading, and writing.
 
 <br>
 
