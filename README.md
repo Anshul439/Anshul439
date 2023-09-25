@@ -3,14 +3,14 @@
 
 <br>
 
-# 🧑‍💻 About Me:
+## 🧑‍💻 About Me:
 - 🌱 Currently learning web development.
 - 🔭 Actively exploring open-source projects.
 - 🎨 I enjoy playing drums, playing football, reading, and writing.
 
 <br>
 
-# 🤝 Connect with me:
+## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anshul Wadhwa | LinkedIn" width=40px;/></a>
 <a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/></a>
 
@@ -20,7 +20,9 @@
 
 <div id="badges">
 <h2>
-🛠️ Languages and Tools :
+    
+## 🛠️ Languages and Tools :
+
 </h2>
 
 <p>
@@ -38,7 +40,7 @@
 
 <br>
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 <p >
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 500px;" >
 </p>
