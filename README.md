@@ -38,7 +38,7 @@
 <br>
 
 ## 📈 GitHub Stats
-<p >
+<p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 500px;" >
 </p>
    
@@ -50,3 +50,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=highcontrast" alt="GitHub Streak Stats" style="width: 500px;">
 
+<br>
+<br>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anshul439&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
