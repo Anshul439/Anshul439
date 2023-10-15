@@ -20,7 +20,6 @@
 
 <div id="badges">
     
-
 ## 🛠️ Languages and Tools :
 <p>
 <a href="https://skillicons.dev">
