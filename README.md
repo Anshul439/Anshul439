@@ -1,5 +1,7 @@
 <p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=65%></p>
-<h1 align=center> <strong><em> Hi there, I'm Anshul Wadhwa</em></strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align=center>
+    <strong><em> Hi there, I'm Anshul Wadhwa</em></strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <br>
 
@@ -11,8 +13,10 @@
 <br>
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anshul Wadhwa | LinkedIn" width=40px;/></a>
-<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/></a>
+<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anshul Wadhwa | LinkedIn" width=40px;/>
+</a>
+<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
+</a>
 
 <br>
 <br>
@@ -38,7 +42,7 @@
 
 ## 📈 GitHub Stats
 <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 500px;" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 500px;">
 </p>
    
 <br>
