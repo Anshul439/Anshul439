@@ -46,7 +46,7 @@
     <div style="margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="height: 150px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 150px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=highcontrast" alt="GitHub Streak Stats" style="width: 300px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=highcontrast" alt="GitHub Streak Stats" style="width: 350px;">
     </div>
 </div>
 
