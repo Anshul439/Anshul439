@@ -30,10 +30,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,react,nodejs,expressjs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,expressjs,mongodb" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,python,git,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=jquery,java,python,git,github,githubactions" />
 </a>
 </p>
 </div>
