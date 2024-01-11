@@ -6,9 +6,9 @@
 <br>
 
 ## 🧑‍💻 About Me:
-- 🌱 Currently learning web development.
-- 🔭 Actively exploring open-source projects.
-- 🎨 I enjoy playing drums, playing football, reading, and writing.
+- 🌱 Currently learning fullstack web development.
+- 🔭 Actively exploring and contributing to open-source projects.
+- 🎨 I enjoy being part of communities and connecting with like-minded individuals.
 
 <br>
 
