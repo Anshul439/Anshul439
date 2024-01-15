@@ -27,16 +27,13 @@
 ## 🛠️ Languages and Tools :
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,jquery" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=expressjs,mongodb,jquery,java" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=java,python,git,github,githubactions" />
 </a>
 </p>
 </div>
