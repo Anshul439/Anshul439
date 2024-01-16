@@ -13,9 +13,11 @@
 <br>
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anshul Wadhwa | LinkedIn" width=40px;/>
+<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/linkedin.png" alt="Anshul Wadhwa | LinkedIn" width=40px;/>
 </a>
-<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
+<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/X.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
+</a>
+<a href="https://peerlist.io/anshul_wadhwa"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/peerlist.webp" alt="Anshul Wadhwa | Twitter" width="40px"/>
 </a>
 
 <br>
