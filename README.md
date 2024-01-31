@@ -41,19 +41,13 @@
 <br>
 
 ## 📈 GitHub Stats
-<p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 500px;">
-</p>
-   
-<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="width: 500px;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anshul439&show_icons=true&theme=highcontrast" alt="GitHub Stats" align="center" style="width: 500px;">
 
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul439&theme=highcontrast" alt="GitHub Streak Stats" style="width: 500px;">
 
-<br>
 <br>
 
 ## 🏆 GitHub Trophies
