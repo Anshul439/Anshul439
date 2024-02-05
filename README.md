@@ -1,4 +1,4 @@
-<p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=65%></p>
+<p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=50%></p>
 <h1 align=center>
     <strong><em> Hi there, I'm Anshul Wadhwa</em></strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
@@ -15,7 +15,7 @@
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/linkedin.png" alt="Anshul Wadhwa | LinkedIn" width=40px;/>
 </a>
-<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/X.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
+<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
 </a>
 
 <br>
