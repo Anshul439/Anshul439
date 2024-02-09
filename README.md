@@ -43,6 +43,3 @@
     </div>
 </div>
 <br>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anshul439&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
