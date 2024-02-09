@@ -6,9 +6,9 @@
 <br>
 
 ## 🧑‍💻 About Me:
-- 🌱 Currently learning fullstack web development.
-- 🔭 Actively exploring and contributing to open-source projects.
-- 🎨 I enjoy being part of communities and connecting with like-minded individuals.
+- 🌱 Currently delving into full stack web development.
+- 🔭 Exploring and contributing to open source projects.
+- 🎨 Enthusiastic about community involvement.
 
 <br>
 
