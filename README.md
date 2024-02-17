@@ -24,7 +24,7 @@
 
 <div id="badges">
 
-## 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github"/>
@@ -34,7 +34,7 @@
 
 <br>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 <div style="display: flex;">
     <div style="margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul439&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
